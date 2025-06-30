@@ -1,7 +1,3 @@
-Absolutely! Here's a clean, professional `README.md` for your **Coding Agent** project based on everything we've built so far — including FastAPI orchestration, OpenAI tool use, noVNC GUI access, and persistent sessions:
-
----
-
 ````markdown
 # 🧠 Coding Agent
 
