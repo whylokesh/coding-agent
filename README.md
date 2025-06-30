@@ -150,5 +150,4 @@ Built by Lokesh Jha. Inspired by the dream of giving AI real developer superpowe
 
 MIT License — free to modify and use.
 
-```
 
