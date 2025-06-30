@@ -142,7 +142,7 @@ coding-agent/
 
 ## 🧑‍💻 Author
 
-Built by \[Lokesh Jha]. Inspired by the dream of giving AI real developer superpowers.
+Built by Lokesh Jha. Inspired by the dream of giving AI real developer superpowers.
 
 ---
 
