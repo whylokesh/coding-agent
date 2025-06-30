@@ -152,7 +152,3 @@ MIT License — free to modify and use.
 
 ```
 
----
-
-Let me know if you'd like a minimal version, screenshots, or badges (build passing, license, etc.) added.
-```
