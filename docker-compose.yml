@@ -1,0 +1,10 @@
+services:
+  coding-agent:
+    build: .
+    ports:
+      - "8000:8000"     # FastAPI
+      - "6080:6080"     # noVNC
+    volumes:
+      - .:/app
+    env_file:
+      - .env
